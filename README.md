@@ -24,14 +24,14 @@ A Django-based web application that allows users to submit a job application for
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://via.placeholder.com/800x400) <!-- Replace with your screenshot -->
-![Screenshot 2](https://via.placeholder.com/800x400) <!-- Replace with your screenshot -->
+![display1](images/display1.png)
+![display2](images/display2.png)
 
 ---
 
 ## 🎥 Demo
 
-![Demo Video](https://via.placeholder.com/800x400) <!-- Replace with your demo video -->
+[![Watch the video](https://img.youtube.com/vi/q1Ks_doRec4/0.jpg)](https://youtu.be/q1Ks_doRec4)
 
 ---
 
